@@ -1,32 +1,89 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C52C&width=435&lines=Ol%C3%A1!+Bem-vindos+ao+meu+Github+%3C3)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Hello%20World&fontColor=F5147F"/>
 
-<img src="https://i.pinimg.com/originals/34/d3/65/34d3655804017a2169e1004524132484.gif" alt="Pixel Art" align="right" width="270">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F5147F&multiline=true&width=435&lines=My+name+is+Flaviana+Lopes!;I%C2%B4m+Front-End+Developer+)](https://git.io/typing-svg)
+<h3>👩🏼‍💻 Sobre mim </h3>
+<p>
+Sou desenvolvedora front-end em formação, com experiência em <strong>React.js, TypeScript</strong> e <strong>Next.js</strong>. Minha paixão é criar interfaces web modernas, sempre com foco em desempenho, escalabilidade e em proporcionar a melhor experiência para o usuário.
+<p></p>
+Minha trajetória inclui experiência prática como estagiária na área de desenvolvimento de software, onde tive a oportunidade de colaborar em projetos de aplicações web, utilizando versionamento de código e integração com APIs.
+<p></p>
+Além das minhas habilidades técnicas, valorizo muito minhas soft skills, como comunicação clara, adaptabilidade, trabalho em equipe e uma abordagem proativa na resolução de problemas. Acredito que essas qualidades são essenciais para construir soluções inovadoras de forma colaborativa e eficiente.
+<p></p>
+Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> e continuo aprofundando meus conhecimentos em UI/UX, metodologias ágeis e nas melhores práticas de programação.
+<p></p>
+Meu grande objetivo é crescer profissionalmente no universo da tecnologia, contribuindo com meu entusiasmo e minhas habilidades para equipes inovadoras e projetos que me desafiem a ir além.
+</p>
+---
 
-### Technologies and tools:
+<h3>💻 Linguagens e Tecnologias </h3>
+<img
+align="left"
+alt="JavaScript"
+title="JavaScript"
+width="33px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+align="left"
+alt="TypeScript"
+title="TypeScript"
+width="33px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img
+align="left"
+alt="React"
+title="React"
+width="33px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+<img
+align="left"
+alt="Next.js"
+title="Next.js"
+width="33px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+/>
+<img
+align="left"
+alt="Redux"
+title="Redux"
+width="33px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
+/>
+<img
+align="left"
+alt="HTML"
+title="HTML"
+width="33px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img
+align="left"
+alt="CSS"
+title="CSS"
+width="33px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<br/>
+<br/>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cris-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cris-PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt= "Cris-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
-  <img align="center" alt="Cris-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div><br>
+---
 
-### GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flavslopes/flavs/lopes/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flavslopes/flavslopes/output/github-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/Lylica/Lylica/output/github-snake.svg">
+</picture>
 
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/anacristinaneves">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=anacristinaneves&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacristinaneves&layout=compact&langs_count=7&theme=one_dark_pro"/>
-  </a>
-</div>
-    
-### Contact
-
-<div> 
-  <a href="https://www.linkedin.com/in/flavianalopescastelobranco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:flavianalopes122@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<h3> 🔗 Redes Sociais </h3>
+<div>
+  <a href="https://www.linkedin.com/in/flavianalopescastelobranco/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Link do Linkedin"/></a>
 </div>
