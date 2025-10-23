@@ -95,7 +95,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
   <a href="mailto:flaviana.lcbranco@gmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email da Flaviana"
+      alt="Email da Flaviana" 
     />
   </a>
 </div>
