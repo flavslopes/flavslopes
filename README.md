@@ -83,6 +83,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
   <img alt="snake animation" src="https://raw.githubusercontent.com/flavslopes/flavslopes/output/github-snake.svg" />
 </picture>
 
+
 <h3> 🔗 Redes Sociais </h3>
 <div>
   <a href="https://www.linkedin.com/in/flavianalopescastelobranco/" target="_blank">
