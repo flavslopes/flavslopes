@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Hello%20World&fontColor=F5147F"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F5147F&multiline=true&width=435&lines=My+name+is+Flaviana+Lopes!;I%C2%B4m+Front-End+Developer+)](https://git.io/typing-svg)
-<h3>👩🏼‍💻 Sobre mim </h3>
+<h3>👩🏻‍💻 Sobre mim </h3>
 <p>
 Sou desenvolvedora front-end em formação, com experiência em <strong>React.js, TypeScript</strong> e <strong>Next.js</strong>. Minha paixão é criar interfaces web modernas, sempre com foco em desempenho, escalabilidade e em proporcionar a melhor experiência para o usuário.
 <p></p>
