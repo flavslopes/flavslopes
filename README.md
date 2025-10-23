@@ -78,9 +78,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flavslopes/flavs/lopes/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flavslopes/flavslopes/output/github-snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/Lylica/Lylica/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flavslopes/flavslopes/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flavslopes/flavslopes/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/flavslopes/flavslopes/output/github-snake.svg" />
 </picture>
 
 <h3> 🔗 Redes Sociais </h3>
