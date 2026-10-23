@@ -1,6 +1,6 @@
 <img width="100%" src="./assets/banner.png" alt="Flaviana Lopes — Desenvolvedora de Software"/>
 
-<h3>👩‍💻 Sobre mim</h3>
+<h3>👾 Sobre mim</h3>
 
 <p>
 Desenvolvedora de Software Júnior na <strong>SOMOS Healthtech</strong>, com foco em front-end e atuação em produtos digitais para a área da saúde. Trabalho principalmente com <strong>React, TypeScript</strong> e <strong>Next.js</strong>, construindo interfaces performáticas, acessíveis e de fácil manutenção.
@@ -10,9 +10,9 @@ Sou formada em <strong>Análise e Desenvolvimento de Sistemas</strong> e tenho n
 </p>
 
 <ul>
-  <li>💼 Desenvolvedora Júnior na SOMOS Healthtech</li>
-  <li>🎓 Formada em Análise e Desenvolvimento de Sistemas</li>
-  <li>🌱 Aprofundando conhecimentos em arquitetura front-end, testes e UI/UX</li>
+  <li>Desenvolvedora Júnior na SOMOS Healthtech</li>
+  <li>Formada em Análise e Desenvolvimento de Sistemas</li>
+  <li>Aprofundando conhecimentos em arquitetura front-end, testes e UI/UX</li>
 </ul>
 
 <h3>🌎 About me</h3>
