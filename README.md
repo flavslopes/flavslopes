@@ -1,30 +1,27 @@
 <img width="100%" src="./assets/banner.png" alt="Flaviana Lopes — Desenvolvedora de Software"/>
 
-<h3>👾 Sobre mim</h3>
+<h3>👩‍💻 Sobre mim</h3>
 
 <p>
-Sou desenvolvedora front-end, com experiência em <strong>React.js, TypeScript</strong> e <strong>Next.js</strong>. Minha paixão é criar interfaces web modernas, sempre com foco em desempenho, escalabilidade e em proporcionar a melhor experiência para o usuário.
+Desenvolvedora de Software Júnior na <strong>SOMOS Healthtech</strong>, com foco em front-end e atuação em produtos digitais para a área da saúde. Trabalho principalmente com <strong>React, TypeScript</strong> e <strong>Next.js</strong>, construindo interfaces performáticas, acessíveis e de fácil manutenção.
 </p>
 <p>
-Minha trajetória inclui experiência prática como estagiária na área de desenvolvimento de software, onde tive a oportunidade de colaborar em projetos de aplicações web, utilizando versionamento de código e integração com APIs.
+Sou formada em <strong>Análise e Desenvolvimento de Sistemas</strong> e tenho noções de back-end e integração com APIs, o que me permite colaborar em diferentes etapas do desenvolvimento. Valorizo código limpo, boas práticas, comunicação clara e trabalho em equipe em ambientes ágeis.
 </p>
-<p>
-Além das minhas habilidades técnicas, valorizo muito minhas soft skills, como comunicação clara, adaptabilidade, trabalho em equipe e uma abordagem proativa na resolução de problemas.
-</p>
-<p>
-Sou formada em <strong>Análise e Desenvolvimento de Sistemas</strong> e continuo aprofundando meus conhecimentos em UI/UX, metodologias ágeis e nas melhores práticas de programação.
-</p>
+
+<ul>
+  <li>💼 Desenvolvedora Júnior na SOMOS Healthtech</li>
+  <li>🎓 Formada em Análise e Desenvolvimento de Sistemas</li>
+  <li>🌱 Aprofundando conhecimentos em arquitetura front-end, testes e UI/UX</li>
+</ul>
 
 <h3>🌎 About me</h3>
 
 <p>
-I'm a front-end developer experienced in <strong>React.js, TypeScript</strong> and <strong>Next.js</strong>. I love building modern web interfaces with a focus on performance, scalability and a great user experience.
+Junior Software Developer at <strong>SOMOS Healthtech</strong>, focused on front-end development for digital healthcare products. I work mainly with <strong>React, TypeScript</strong> and <strong>Next.js</strong>, building performant, accessible and maintainable user interfaces.
 </p>
 <p>
-I've worked as a software development intern, collaborating on web applications, using version control and integrating with APIs. I hold a degree in <strong>Systems Analysis and Development</strong> and keep growing my skills in UI/UX, agile methodologies and programming best practices.
-</p>
-<p>
-I value clear communication, adaptability, teamwork and a proactive approach to solving problems.
+I hold a degree in <strong>Systems Analysis and Development</strong> and have back-end and API integration knowledge, which lets me contribute across different stages of development. I value clean code, best practices, clear communication and teamwork in agile environments.
 </p>
 
 ---
@@ -47,6 +44,19 @@ I value clear communication, adaptability, teamwork and a proactive approach to 
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/flavslopes/flavslopes/output/plane.svg" alt="Avião roxo voando sobre o gráfico de contribuições"/>
+</p>
+
+---
+
+<h3>🚀 Projetos em destaque</h3>
+
+<p align="center">
+  <a href="https://github.com/flavslopes/pizzaria-nostra-web">
+    <img width="49%" src="https://raw.githubusercontent.com/flavslopes/flavslopes/output/card-pizzaria-nostra-web.svg" alt="pizzaria-nostra-web"/>
+  </a>
+  <a href="https://github.com/flavslopes/se-a-vida-te-der-tangerinas">
+    <img width="49%" src="https://raw.githubusercontent.com/flavslopes/flavslopes/output/card-se-a-vida-te-der-tangerinas.svg" alt="se-a-vida-te-der-tangerinas"/>
+  </a>
 </p>
 
 ---

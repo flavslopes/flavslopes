@@ -30,6 +30,11 @@ jobs:
           # (scope read:user) e salve como secret PROFILE_TOKEN.
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
+      - name: Generate project cards
+        run: node scripts/generate-cards.mjs flavslopes dist pizzaria-nostra-web se-a-vida-te-der-tangerinas
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Push plane animation
         uses: crazy-max/ghaction-github-pages@v4
         with:
