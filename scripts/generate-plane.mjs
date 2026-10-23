@@ -55,6 +55,8 @@ const GRID_TOP = 44;
 const STEP = 0.22; // segundos por coluna
 const BULLET_SPEED = 420; // px/s
 const FIRE_STAGGER = 0.03;
+const HOLD = 1.1; // quanto tempo o quadradinho fica marcado antes de sumir
+const FADE = 0.7;
 
 const r = (n) => Math.round(n * 100) / 100;
 
@@ -85,7 +87,7 @@ function render({ totalContributions, weeks }) {
   const lead = (colX(0) - startX) / speed;
   const colTime = (c) => lead + c * STEP;
   const sweepEnd = colTime(cols - 1) + (endX - colX(cols - 1)) / speed;
-  const restoreStart = sweepEnd + 0.4;
+  const restoreStart = sweepEnd + HOLD + FADE + 0.4;
   const restoreEnd = restoreStart + 1;
   const T = restoreEnd + 1.2;
 
@@ -120,8 +122,9 @@ function render({ totalContributions, weeks }) {
             "fill",
             [
               [hit, base],
-              [hit + 0.04, "#ffffff"],
-              [hit + 0.4, C.levels[0]],
+              [hit + 0.06, C.levels[4]],
+              [hit + HOLD, C.levels[4]],
+              [hit + HOLD + FADE, C.levels[0]],
               [restoreStart, C.levels[0]],
               [restoreEnd, base],
             ],
@@ -132,13 +135,14 @@ function render({ totalContributions, weeks }) {
 
       const cx = colX(c);
       shots.push(
-        `<rect x="${r(cx - 1)}" width="2" height="7" rx="1" fill="${C.bullet}" opacity="0">` +
-          animate("y", [[fire, r(fromY)], [hit, r(toY - 3.5)], [hit, r(fromY)]], T) +
+        `<circle cx="${cx}" r="2.2" fill="${C.bullet}" opacity="0">` +
+          animate("cy", [[fire, r(fromY)], [hit, r(toY)], [hit, r(fromY)]], T) +
           animate("opacity", [[fire, 0], [fire, 1], [hit, 1], [hit, 0]], T) +
-          `</rect>`,
-        `<circle cx="${cx}" cy="${toY}" r="0" fill="none" stroke="${C.levels[4]}" stroke-width="1.5" opacity="0">` +
-          animate("r", [[hit, 0], [hit + 0.35, 9], [hit + 0.35, 0]], T) +
-          animate("opacity", [[hit, 0], [hit, 1], [hit + 0.35, 0]], T) +
+          `</circle>`,
+        // anel que "trava" no quadradinho e some junto com ele
+        `<circle cx="${cx}" cy="${toY}" r="0" fill="none" stroke="${C.levels[4]}" stroke-width="1.6" opacity="0">` +
+          animate("r", [[hit, 0], [hit + 0.15, 10], [hit + 0.3, 8], [hit + HOLD + FADE, 8], [hit + HOLD + FADE, 0]], T) +
+          animate("opacity", [[hit, 0], [hit, 1], [hit + HOLD, 1], [hit + HOLD + FADE, 0]], T) +
           `</circle>`,
       );
     });

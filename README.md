@@ -3,7 +3,7 @@
 <h3>👾 Sobre mim</h3>
 
 <p>
-Sou desenvolvedora front-end em formação, com experiência em <strong>React.js, TypeScript</strong> e <strong>Next.js</strong>. Minha paixão é criar interfaces web modernas, sempre com foco em desempenho, escalabilidade e em proporcionar a melhor experiência para o usuário.
+Sou desenvolvedora front-end, com experiência em <strong>React.js, TypeScript</strong> e <strong>Next.js</strong>. Minha paixão é criar interfaces web modernas, sempre com foco em desempenho, escalabilidade e em proporcionar a melhor experiência para o usuário.
 </p>
 <p>
 Minha trajetória inclui experiência prática como estagiária na área de desenvolvimento de software, onde tive a oportunidade de colaborar em projetos de aplicações web, utilizando versionamento de código e integração com APIs.
@@ -12,7 +12,19 @@ Minha trajetória inclui experiência prática como estagiária na área de dese
 Além das minhas habilidades técnicas, valorizo muito minhas soft skills, como comunicação clara, adaptabilidade, trabalho em equipe e uma abordagem proativa na resolução de problemas.
 </p>
 <p>
-Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> e continuo aprofundando meus conhecimentos em UI/UX, metodologias ágeis e nas melhores práticas de programação.
+Sou formada em <strong>Análise e Desenvolvimento de Sistemas</strong> e continuo aprofundando meus conhecimentos em UI/UX, metodologias ágeis e nas melhores práticas de programação.
+</p>
+
+<h3>🌎 About me</h3>
+
+<p>
+I'm a front-end developer experienced in <strong>React.js, TypeScript</strong> and <strong>Next.js</strong>. I love building modern web interfaces with a focus on performance, scalability and a great user experience.
+</p>
+<p>
+I've worked as a software development intern, collaborating on web applications, using version control and integrating with APIs. I hold a degree in <strong>Systems Analysis and Development</strong> and keep growing my skills in UI/UX, agile methodologies and programming best practices.
+</p>
+<p>
+I value clear communication, adaptability, teamwork and a proactive approach to solving problems.
 </p>
 
 ---
