@@ -139,10 +139,10 @@ function render({ totalContributions, weeks }) {
           animate("cy", [[fire, r(fromY)], [hit, r(toY)], [hit, r(fromY)]], T) +
           animate("opacity", [[fire, 0], [fire, 1], [hit, 1], [hit, 0]], T) +
           `</circle>`,
-        // anel que "trava" no quadradinho e some junto com ele
-        `<circle cx="${cx}" cy="${toY}" r="0" fill="none" stroke="${C.levels[4]}" stroke-width="1.6" opacity="0">` +
-          animate("r", [[hit, 0], [hit + 0.15, 10], [hit + 0.3, 8], [hit + HOLD + FADE, 8], [hit + HOLD + FADE, 0]], T) +
-          animate("opacity", [[hit, 0], [hit, 1], [hit + HOLD, 1], [hit + HOLD + FADE, 0]], T) +
+        // pulso rápido no impacto
+        `<circle cx="${cx}" cy="${toY}" r="0" fill="none" stroke="${C.levels[4]}" stroke-width="1" opacity="0">` +
+          animate("r", [[hit, 5], [hit + 0.35, 9], [hit + 0.35, 0]], T) +
+          animate("opacity", [[hit, 0], [hit, 0.8], [hit + 0.35, 0]], T) +
           `</circle>`,
       );
     });
